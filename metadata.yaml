@@ -1,5 +1,8 @@
 _repo: Landmarks-in-French-Literature_12670
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Strachey, Lytton
@@ -14,6 +17,8 @@ description: This 1912 publication is a thoughtful overview of French literature
   the Middle Ages and covering the time periods through the end of the nineteenth-century,
   Strachey discusses authors Froissart, Moli re, and Hardy, among others. This readable
   and informative volume remains an ideal introduction to the French classics.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12670#Landmarks-in-French-Literature
 gutenberg_issued: '2004-06-01'
 gutenberg_type: Text
 identifiers:
